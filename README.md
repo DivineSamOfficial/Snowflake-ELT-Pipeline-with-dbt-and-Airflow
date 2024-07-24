@@ -1,7 +1,3 @@
-   Here’s a polished and engaging README for your GitHub repository:
-
----
-
 # Snowflake ELT Pipeline with dbt and Airflow
 
 Welcome to the Snowflake ELT Pipeline project! 🚀 This repository showcases a complete end-to-end data pipeline built using cutting-edge technologies, including Snowflake, dbt (Data Build Tool), and Apache Airflow. Dive into the details to see how modern data engineering practices can transform and orchestrate data efficiently.
