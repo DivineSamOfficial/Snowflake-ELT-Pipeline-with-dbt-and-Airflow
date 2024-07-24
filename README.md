@@ -1,4 +1,4 @@
-Here’s a polished and engaging README for your GitHub repository:
+   Here’s a polished and engaging README for your GitHub repository:
 
 ---
 
@@ -9,7 +9,15 @@ Welcome to the Snowflake ELT Pipeline project! 🚀 This repository showcases a 
 
 ## Architecture Diagram
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](https://github.com/DivineSamOfficial/Snowflake-ELT-Pipeline-with-dbt-and-Airflow/blob/main/Images/ELT_snw-dbt-airflow.jpg)
+
+## Airflow DAG
+
+![Airflow DAG](https://github.com/DivineSamOfficial/Snowflake-ELT-Pipeline-with-dbt-and-Airflow/blob/main/Images/Screenshot%202024-07-25%20at%2012.30.16%E2%80%AFAM.png)
+
+## Data Flow Diagram
+
+![DataFlowDiag](https://github.com/DivineSamOfficial/Snowflake-ELT-Pipeline-with-dbt-and-Airflow/blob/main/Images/DataFlowDiag.png)
 
 ## Project Overview
 
